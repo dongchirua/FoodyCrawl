@@ -36,3 +36,7 @@ In `./Foody/piplines.py`, you have to
 - UNCOMMENT `def __init__`
 - UNCOMMENT lines from **#23 to #34**
 - COMMENT `return item` at line **#16**
+
+
+----------
+Please drop me an email if you want to discuss: *Hong QUY Nguyen (Mr), nguyen[dot]hquy[at]gmail[dot]com* where [dot] is '.' and [at] is '@'
