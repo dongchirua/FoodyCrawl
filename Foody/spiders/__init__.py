@@ -1,0 +1,1 @@
+from crawlFoody import FoodCrawler
