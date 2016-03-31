@@ -38,6 +38,7 @@ class FoodCrawler(InitSpider):
         self.is_debug = is_debug
         msg = 'The account will be used ' + user + ' ' + password
         self.log(msg, level=logging.INFO)
+        self.log('That being said, it works for me. Thank you for using my work', level=logging.INFO)
 
     def init_request(self):
         """ This function is called before crawling starts. """
